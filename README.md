@@ -36,5 +36,5 @@ TeddyBearShopping là một ứng dụng thương mại điện tử chuyên v�
 ## Hướng dẫn cài đặt
 1. Clone dự án:
    ```bash
-   git clone [URL_REPOSITORY]
+   git clone (https://github.com/NguyenHoangMy1st/TeddyShop.git)
    cd TeddyBearShopping
